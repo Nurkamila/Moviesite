@@ -1,5 +1,6 @@
 from django.forms import ModelForm, ValidationError
 from .models import Video, Comment
+from django import forms
 
 
 class CreateVideoForm(ModelForm):

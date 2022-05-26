@@ -1,8 +1,0 @@
-Django==4.0
-psycopg2-binary==2.9.3
-Pillow==9.1.0
-python-decouple
-requests
-bs4
-social-auth-app-django
-python-social-auth==0.2.12
